@@ -1,9 +1,10 @@
-flask
+Flask
 flask-cors
 tensorflow
 numpy
 pandas
 joblib
+scikit-learn
 python-dotenv
 google-generativeai
 azure-cognitiveservices-speech
