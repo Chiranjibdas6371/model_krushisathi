@@ -1,0 +1,10 @@
+flask
+flask-cors
+tensorflow
+numpy
+pandas
+joblib
+python-dotenv
+google-generativeai
+azure-cognitiveservices-speech
+gunicorn
